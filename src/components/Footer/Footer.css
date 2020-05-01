@@ -1,0 +1,35 @@
+.footer-ingenieria{
+    width: 100%;
+    background-image: linear-gradient(to right,rgb(0,144,155),rgb(120,180,108));
+}
+
+.footer-ingeneieria__fac{
+    padding-left: 7%;
+    flex-direction: column;
+    justify-content: center;
+    font-size: 1.4rem;
+    font-family: "Maven Pro";
+    width: 30%;
+}
+.footer-ingeneieria__fac span{
+    font-size: 2.3rem;
+    font-family: sans-serif;
+    font-weight: bolder;
+}
+
+.footer-ingeneieria__contacto{
+    padding-top: 0.8%;
+    padding-right: 15%;
+    width: 40%;
+}
+
+.footer-ingeneieria__redes-sociales{
+    width: 30%;
+    padding-left: 17%;
+}
+
+i.fab{
+    margin: auto 5% 0 0;
+    font-size: 2.2vw;
+}
+

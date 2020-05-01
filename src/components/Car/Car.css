@@ -1,0 +1,19 @@
+
+.form{
+  box-sizing: border-box;
+  width: 50%;
+  padding: 40px;
+}
+
+.img{
+  width: 80%;
+}
+
+.botstrap{
+  justify-content: center;
+}
+
+.algo{
+  display: inline-block;
+  margin: 5px;
+}

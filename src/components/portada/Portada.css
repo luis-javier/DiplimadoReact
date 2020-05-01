@@ -1,0 +1,30 @@
+.portada-diplomado{
+    background-image: linear-gradient(to right,rgb(0,144,155),rgb(120,180,108));
+    height: 38vw;
+    width: 100%;
+}
+
+.portada-diplomado__titulo{
+    width: 50%;
+    text-align: left;
+    flex-direction: column;
+    justify-content: center;
+    padding-left: 4%;
+    font-size: 2.2rem;
+    font-family: "Maven Pro";
+}
+
+.portada-diplomado__titulo-diplomado{
+    font-size: 2.31vw;
+    font-family: sans-serif;
+    font-weight: bolder;
+}
+
+.portada-diplomado__icono{
+    width: 40%;
+}
+
+.portada-diplomado__vector{
+    width: 40vw;
+    margin: auto;
+}

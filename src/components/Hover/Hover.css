@@ -1,0 +1,19 @@
+.algo {
+  box-sizing: border-box;
+  padding: 25px;
+  margin: auto;
+  /* background: red; */
+  width: 100%;
+}
+.comp{
+  width: 100%;
+  flex-direction: column;
+  align-items: center;
+  /* background: #000; */
+}
+
+.img-izm{
+  --primary-color: #f12711; 
+  --secondary-color: #f5af19; 
+  --image-opacity: .1;
+}

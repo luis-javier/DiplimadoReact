@@ -1,0 +1,15 @@
+.menu{
+    width: 100%;
+    justify-content: center;
+}
+
+.menu__item{
+    display: block;
+    padding: 15px 1.3%; 
+    font-size: 1.3rem;
+    color: #00749D;
+}
+
+.menu__item:hover{
+    text-decoration: none;
+}

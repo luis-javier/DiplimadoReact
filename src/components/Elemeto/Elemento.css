@@ -1,0 +1,20 @@
+.presentacion{
+    width: 100%;
+    margin: 5% 0;
+}
+
+.presentacion__izq{
+    align-items: center;
+    padding: 5%;
+    font-size: 1.3vw;
+}
+
+.presentacion__izq h2{
+    margin-bottom: 5%;
+    font-size: 3.5vw;
+}
+
+.presentacion__conexion{
+    margin-right: 7vw;
+    width: 40vw;
+}
