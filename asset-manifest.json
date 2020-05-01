@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/DiplimadoReact/static/css/main.fae562b0.chunk.css",
+    "main.js": "/DiplimadoReact/static/js/main.8ac490cf.chunk.js",
+    "main.js.map": "/DiplimadoReact/static/js/main.8ac490cf.chunk.js.map",
+    "runtime-main.js": "/DiplimadoReact/static/js/runtime-main.e215c7aa.js",
+    "runtime-main.js.map": "/DiplimadoReact/static/js/runtime-main.e215c7aa.js.map",
+    "static/js/2.0d355ad3.chunk.js": "/DiplimadoReact/static/js/2.0d355ad3.chunk.js",
+    "static/js/2.0d355ad3.chunk.js.map": "/DiplimadoReact/static/js/2.0d355ad3.chunk.js.map",
+    "index.html": "/DiplimadoReact/index.html",
+    "precache-manifest.3a37830ca532c904733c830a48ad476b.js": "/DiplimadoReact/precache-manifest.3a37830ca532c904733c830a48ad476b.js",
+    "service-worker.js": "/DiplimadoReact/service-worker.js",
+    "static/css/main.fae562b0.chunk.css.map": "/DiplimadoReact/static/css/main.fae562b0.chunk.css.map",
+    "static/js/2.0d355ad3.chunk.js.LICENSE.txt": "/DiplimadoReact/static/js/2.0d355ad3.chunk.js.LICENSE.txt",
+    "static/media/Sin titulo-1.svg": "/DiplimadoReact/static/media/Sin titulo-1.98052b8d.svg",
+    "static/media/back_apple_002.png": "/DiplimadoReact/static/media/back_apple_002.5dbb263d.png",
+    "static/media/back_grapes_001.png": "/DiplimadoReact/static/media/back_grapes_001.435748a9.png",
+    "static/media/back_strawberry_003.png": "/DiplimadoReact/static/media/back_strawberry_003.f3326ada.png",
+    "static/media/bottle_apple_002.png": "/DiplimadoReact/static/media/bottle_apple_002.552769b7.png",
+    "static/media/bottle_grapes_001.png": "/DiplimadoReact/static/media/bottle_grapes_001.51716f6a.png",
+    "static/media/bottle_strawberry_003.png": "/DiplimadoReact/static/media/bottle_strawberry_003.232a7361.png",
+    "static/media/example-image.jpg": "/DiplimadoReact/static/media/example-image.cc50e3d6.jpg",
+    "static/media/front_apple_002.png": "/DiplimadoReact/static/media/front_apple_002.6f9c36e9.png",
+    "static/media/front_grapes_001.png": "/DiplimadoReact/static/media/front_grapes_001.0c27cc78.png",
+    "static/media/front_strawberry_003.png": "/DiplimadoReact/static/media/front_strawberry_003.fbf1c2e3.png",
+    "static/media/imagen.png": "/DiplimadoReact/static/media/imagen.ce07c578.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e215c7aa.js",
+    "static/js/2.0d355ad3.chunk.js",
+    "static/css/main.fae562b0.chunk.css",
+    "static/js/main.8ac490cf.chunk.js"
+  ]
+}
